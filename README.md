@@ -44,6 +44,19 @@
 
 ---
 
+## 👤 原作者与来源声明 (Attribution)
+
+本项目由 **zxj**（GitHub [@zxj-2023](https://github.com/zxj-2023)）原创并开源，原始仓库为 [zxj-2023/my-pi-agent](https://github.com/zxj-2023/my-pi-agent)。
+
+- **原作者**：zxj
+- **原始仓库**：https://github.com/zxj-2023/my-pi-agent
+- **作者博客系列**：https://zxj-2023.github.io/categories/agent实战/my-pi-agent/
+- **许可证**：MIT，Copyright (c) 2026 zxj（见 [LICENSE](LICENSE)）
+
+本仓库 [bajie666ad/mypiagent](https://github.com/bajie666ad/mypiagent) 是上述项目的副本，由 [@bajie666ad](https://github.com/bajie666ad) 维护；代码与设计的著作权归原作者 zxj 所有，本仓库的修改同样遵循 MIT License。
+
+> **Original author**: [zxj (@zxj-2023)](https://github.com/zxj-2023) · **Original repository**: [zxj-2023/my-pi-agent](https://github.com/zxj-2023/my-pi-agent) · **License**: MIT, Copyright (c) 2026 zxj.
+
 ## 💡 为什么从零实现
 
 市面上的 Python agent 框架很难找到称心的：要么完全依赖 AI 搭建，结构与实现冗杂、难以阅读；要么来自 TypeScript 生态，Python 实现偏少；而选择 Python 的大多直接套 langchain / langgraph——框架成了黑盒，底层原理与设计取舍都来不及亲自验证。
@@ -504,4 +517,4 @@ my-pi-agent/
 
 ## 📜 许可证 (License)
 
-本项目采用 [MIT License](LICENSE) 开源协议。
+本项目采用 [MIT License](LICENSE) 开源协议，原始版权归 **zxj** 所有（Copyright (c) 2026 zxj）。
